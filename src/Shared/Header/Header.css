@@ -1,0 +1,25 @@
+.navbar a {
+    text-decoration: none;
+    margin-right: 2rem;
+    color: white;
+    font-size: medium;
+}
+.navbar{
+    margin: 0 auto;
+}
+.logo{
+    color: gray;
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 2rem;
+}
+.logo img{
+    width: 50px;
+}
+.logout{
+    background-color: rgb(32, 236, 117);
+    padding: .5rem .8rem;
+    border-radius: 8%;
+    color: white;
+    font-weight: bold;
+}

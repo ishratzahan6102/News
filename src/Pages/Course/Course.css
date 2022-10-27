@@ -1,0 +1,36 @@
+.card{
+    width: 24rem;
+    height: 22rem;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    border: none;
+    padding-top: 18px;
+
+}
+.courses{
+    margin: 0 auto;
+}
+.card .img{
+    width: 22rem;
+    height: 16rem;
+    margin: 0 auto;
+    border-radius: 2%;
+}
+.btn-courses{
+    background-color: rgb(53, 226, 125);
+    padding: .5rem .8rem;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.btn-courses:hover{
+    background-color: rgb(10, 156, 71);
+    transition: all .4s;
+}
+.card-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

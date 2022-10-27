@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "category_name": "Graphic Design"
+    },
+    {
+        "id": "02",
+        "category_name": "Programming Summery"
+    },
+    {
+        "id": "03",
+        "category_name": "Javascript"
+    },
+    {
+        "id": "04",
+        "category_name": "Html/CSS"
+    },
+    {
+        "id": "05",
+        "category_name": "Python"
+    },
+    {
+        "id": "06",
+        "category_name": "C++"
+    }
+]

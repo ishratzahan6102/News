@@ -1,0 +1,16 @@
+.cd-card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+}
+.author-img{
+    width: 90px;
+    height: 80px;
+}
+.cd-body{
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+}

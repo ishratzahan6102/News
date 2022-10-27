@@ -1,0 +1,13 @@
+.signup-form{
+    text-align: center;
+    
+}
+.form{
+    text-align: start;
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 30px 20px ;
+    background-color: white;
+}
