@@ -29,7 +29,7 @@ const Login = () => {
             console.log(user)
             form.reset('')
             setErrors('')
-            navigate('/')
+            
         })
         .catch((error) => {
             console.error(error)
