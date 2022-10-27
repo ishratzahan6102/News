@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Website Link
 
-open [http://localhost:3000] to view my page
+open [https://assignment-10-74fb1.web.app] to view my page
+
+### Features
+* Easy to processing
+* Firebase authentication
+* 3 types sign in process
+* Loaded with necessary information
 
 <!-- ### `npm start`
 
