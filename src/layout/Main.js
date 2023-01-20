@@ -1,6 +1,6 @@
 import React from 'react';
 import './Main.css'
-import { Col, Container, Row } from 'react-bootstrap';
+import { Col, Container, Row } from '';
 import { Outlet } from 'react-router-dom';
 import Footer from '../Shared/Footer/Footer';
 import Header from '../Shared/Header/Header';

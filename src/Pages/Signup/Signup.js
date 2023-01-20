@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import Form from 'react-bootstrap/Form';
+import Form from '/Form';
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../Context/UserContext';
 import { FaGithub, FaGoogle, FaFacebook, FaTwitter, FaInstagram, FaPhone, FaGit } from 'react-icons/fa';
@@ -73,6 +73,7 @@ const Signup = () => {
     const handleAccepted = event => {
         setAccepted(event.target.checked)
     }
+    
     const handleUpdateProfile = (name, photoURL) => {
         const profile = {
             displayName: name,

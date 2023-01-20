@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Col, Container, Row } from '';
 import { Outlet } from 'react-router-dom';
 import RightSideNav from '../../Shared/RigthSideNav/RightSideNav';
 import CourseDetails from '../Course/Course';

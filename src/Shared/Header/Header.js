@@ -1,13 +1,13 @@
 import React, { useContext } from 'react';
-import { Image } from 'react-bootstrap';
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+import { Image } from '';
+import Container from '/Container';
+import Nav from '/Nav';
+import Navbar from '/Navbar';
 import { FaMoon, FaSun, FaUser } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../Context/UserContext';
-import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
-import Tooltip from 'react-bootstrap/Tooltip';
+import OverlayTrigger from '/OverlayTrigger';
+import Tooltip from '/Tooltip';
 import './Header.css'
 
 

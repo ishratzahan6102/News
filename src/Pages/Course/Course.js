@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card } from 'react-bootstrap';
+import { Button, Card } from '';
 import { Link } from 'react-router-dom';
 import { FaBook } from 'react-icons/fa';
 import "./Course.css"

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accordion } from 'react-bootstrap';
+import { Accordion } from '';
 import { FaBlog } from 'react-icons/fa';
 
 const Blog = () => {

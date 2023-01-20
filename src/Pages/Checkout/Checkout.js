@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card, Image } from 'react-bootstrap';
+import { Button, Card, Image } from '';
 import { Link, useLoaderData } from 'react-router-dom';
 import './Checkout.css'
 

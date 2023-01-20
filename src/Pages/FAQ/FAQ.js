@@ -1,5 +1,5 @@
 import React from 'react';
-import { ListGroup } from 'react-bootstrap';
+import { ListGroup } from '';
 import { FaHandPointLeft, FaHandPointRight } from 'react-icons/fa';
 
 const FAQ = () => {

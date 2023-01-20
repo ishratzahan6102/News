@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Card, Col, Container, Image, ListGroup, Row } from 'react-bootstrap';
+import { Button, Card, Col, Container, Image, ListGroup, Row } from '';
 import { FaFilePdf } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import './SummeryCard.css'
